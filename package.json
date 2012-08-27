@@ -1,0 +1,31 @@
+{
+  "name": "form-stream",
+  "version": "0.0.1",
+  "description": "A delta stream which emits deltas from form elements",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/form-stream.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/form-stream",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/form-stream/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+    "dom-walk": "0.0.1",
+    "through": "~0.1.4"
+  },
+  "devDependencies": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/form-stream/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {}
+}
